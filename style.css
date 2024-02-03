@@ -213,9 +213,10 @@ section{
         transition: .2s;
     }
     .hero-text{
-        padding-top: 11px;
+        padding-top: 100px;
         padding-left: 35px;
     }
+    
     .hero-img{
         text-align: center;
     }
@@ -244,8 +245,8 @@ section{
         position: absolute;
         top: 100%;
         right: -100%;
-        width: 200px;
-        height: 30vh;
+        width: 170px;
+        height: 40vh;
         background: #4d9559;
         display: flex;
         align-items: center;
